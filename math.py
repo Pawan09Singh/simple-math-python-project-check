@@ -1,0 +1,5 @@
+a=int("input(Enter the number which is to be divided:  "))
+b=int(input("Enter the divider:  "))
+print(a/b)
+print(a//b)
+print(a%b)
